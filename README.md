@@ -1,4 +1,4 @@
-## Hi there!
+## Hi there!👋🏻
 I'm Prajwal, a passionate learner exploring the vast world of programming.
 
 - 🌱 Currently learning MERN and eager to dive into coding projects.
