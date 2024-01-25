@@ -12,7 +12,6 @@ I'm Prajwal, a passionate learner exploring the vast world of programming.
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=notprjwl&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=notprjwl&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=notprjwl&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=notprjwl&icon=5&color=9)](https://visitcount.itsvg.in)
