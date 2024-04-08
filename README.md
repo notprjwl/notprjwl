@@ -1,7 +1,7 @@
 # Hi there!👋🏻
 I'm Prajwal, a passionate learner exploring the vast world of programming.
 
-- 🌱 Currently learning MERN and eager to dive into coding projects.
+- 🌱 Currently exploring Next.js and TypeScript, and eager to dive into coding projects.
 - 👨🏻‍💻 Actively seeking opportunities to contribute and collaborate.
 - 💡 Interested in photography, film making and gaming.
 
